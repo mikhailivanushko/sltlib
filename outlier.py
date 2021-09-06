@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 
 from scipy.optimize import dual_annealing
-import cvxpy as cp
 
 from sltlib.utils import save_file, load_file
 from sltlib.basefuncs import signed_distance, margin_loss
