@@ -1,5 +1,6 @@
 # sltlib
 sltlib contains functions for working with Empirical Risk Bounds of SVM
+
 Created by Mikhail Ivanushko as part of a summer 2021 assignment @ HSE
 
 ## Features
