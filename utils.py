@@ -1,9 +1,7 @@
-'''
-	Saving and loading files
-'''
-
 import pickle
 import numpy as np
+
+''' Saving and loading files '''
 
 def save_file(path,file):
     with open(path, "wb") as fp:

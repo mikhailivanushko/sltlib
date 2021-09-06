@@ -1,6 +1,7 @@
 '''
     A list of basic functions used between solvers
 '''
+
 import numpy as np
 
 def signed_distance(X, w):
